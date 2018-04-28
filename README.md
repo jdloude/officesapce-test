@@ -1,2 +1,0 @@
-# OfficeSpace
-Project 3
